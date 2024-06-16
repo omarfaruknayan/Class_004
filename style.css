@@ -1,0 +1,26 @@
+*{
+margin: 20px;
+padding: 10px;
+}
+
+    /* Position css */
+    
+
+
+    
+    .main-box{
+        position: relative;
+        background: blue;
+        width: 700px;
+        height: 600px;
+    }
+    .child-box{ 
+        position:absolute;
+        background:red;
+        width: 150px;
+        height: 150px;
+        bottom: 100px;
+        right: 200px;
+        top: 50px;
+    }
+
